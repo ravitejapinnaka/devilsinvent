@@ -1,9 +1,3 @@
-/**
- 
- Copyright 2016 Brian Donohue.
- 
-*/
-
 'use strict';
 var http = require('http');
 var options;
